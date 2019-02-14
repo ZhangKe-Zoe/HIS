@@ -1,0 +1,11 @@
+F:\Windows\Code\his\20180414\Register\Register\bin\Debug\Register.exe.config
+F:\Windows\Code\his\20180414\Register\Register\bin\Debug\Register.exe
+F:\Windows\Code\his\20180414\Register\Register\bin\Debug\Register.pdb
+F:\Windows\Code\his\20180414\Register\Register\obj\Debug\Register.csprojResolveAssemblyReference.cache
+F:\Windows\Code\his\20180414\Register\Register\obj\Debug\Register.Properties.Resources.resources
+F:\Windows\Code\his\20180414\Register\Register\obj\Debug\Register.UI.resources
+F:\Windows\Code\his\20180414\Register\Register\obj\Debug\Register.csproj.GenerateResource.Cache
+F:\Windows\Code\his\20180414\Register\Register\obj\Debug\Register.csproj.CoreCompileInputs.cache
+F:\Windows\Code\his\20180414\Register\Register\obj\Debug\Register.exe
+F:\Windows\Code\his\20180414\Register\Register\obj\Debug\Register.pdb
+F:\Windows\Code\his\20180414\Register\Register\obj\Debug\Register.zlk.resources
